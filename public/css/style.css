@@ -1,0 +1,26 @@
+h1 {
+  font-size: 50px;
+  margin-left: 30%;
+}
+
+#burgerImg {
+  height: 300px;
+  width: 300px;
+  margin-left: 26%;
+}
+
+.form {
+  margin-left: 33%;
+}
+
+.add-burger {
+  margin-left: 38%;
+}
+
+li {
+  padding: 10px;
+}
+
+.form-card {
+  padding: 10px;
+}
